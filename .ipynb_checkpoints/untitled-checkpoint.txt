@@ -1,0 +1,16 @@
+BOLUM 1 - GIRIS
+Doğrusal regrasyon modelleri:
+Basit doğrusal regresyon
+Çoklu Doğrusal Regresyon
+Ridge Regresyon
+Lasso Regresyon
+Elastic Net Regresyon
+
+Her model için;
+Model kurma
+Tahmin etme işlemleri
+Model optimizasyonu
+
+BOLUM 2- BASİT DOĞRUSAL REGRESYON
+Temel amaç bağımlı ve bağımsız değişken arasındaki ilişkiyi ifade eden doğrusal fonksiyonu bulmaktır.
+##Bunun çok iyi anlaşılması lazım, ML için en temel konulardandır.
