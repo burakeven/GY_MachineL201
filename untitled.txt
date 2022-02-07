@@ -14,3 +14,24 @@ Model optimizasyonu
 BOLUM 2- BASİT DOĞRUSAL REGRESYON
 Temel amaç bağımlı ve bağımsız değişken arasındaki ilişkiyi ifade eden doğrusal fonksiyonu bulmaktır.
 ##Bunun çok iyi anlaşılması lazım, ML için en temel konulardandır.
+
+BOLUM 3- COKLU DOGRUSAL REGRESYON
+Temel amaç bağımlı ve bağımsız değişkenler arasındaki ilişkiyi ifade eden doğrusal fonksiyonu bulmaktır.
+
+Dogrusal Regresyonun Varsayımları
+-Hatalar normal dağılır.
+-Hatalar birbirinden bağımsızdır ve aralarında otokorelasyon yoktur.
+-Her bir gözlem için hata terimleri varyansları sabittir.
+-Değişkenler ile hata terimi arasında ilişki yoktur.
+-Bağımsız değişkenler arasında çoklu doğrusal ilişki problemi yoktur.
+
+#REGRESYON MODELLERİNİN AVANTAJ VE DEZAVANTAJLARI
+Avantajları:
+İyi anlaşılırsa diğer tüm ML ve Deep Learning konuları çok rahat kavranır.
+-Doğrusallık nedensellik yorumları yapılabilmesini sağlar. Bu durum aksiyoner ve stratejik modelleme imkanı verir.
+-Değişkenlerin etki düzeyleri ve anlamlılıkları değerlendirilebilir.
+-Bağımlı değişkendeki değişkenliğin açıklanma başarısı ölçülebilir.
+-Model anlamlılığı değerlendirilebilir.
+DEZAVANTAJLARI:
+Varsayımları vardır.
+Aykırı gözlemlere duyarlıdır. (Algoritmalar tarafından elbette bu istenmez.)
