@@ -37,4 +37,7 @@ Varsayımları vardır.
 Aykırı gözlemlere duyarlıdır. (Algoritmalar tarafından elbette bu istenmez.)
 
 BOLUM 4 - Ridge Regresyon
-Amaç, hata kareler toplamını minimize eden katsayıları, bu katsayılarak bir ceza uygulayarak bulmaktır.
+Amaç, hata kareler toplamını minimize eden katsayıları, bu katsayılarak bir ceza uygulayarak bulmaktır. L2 yöntemi
+
+BOLUM 5 - Lasso Regresyon
+Amaç, hata kareler toplamını minimize eden katsayıları, bu katsayılarak bir ceza uygulayarak bulmaktır. L1 yöntemi
